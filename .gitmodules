@@ -1,0 +1,12 @@
+[submodule "lib/pug-lexer"]
+	path = lib/pug-lexer
+	url = https://github.com/ranneyd/pug-lexer.git
+[submodule "lib/character-parser"]
+	path = lib/character-parser
+	url = https://github.com/ranneyd/character-parser.git
+[submodule "lib/pug-error"]
+	path = lib/pug-error
+	url = https://github.com/ranneyd/pug-error.git
+[submodule "lib/is-expression"]
+	path = lib/is-expression
+	url = https://github.com/ranneyd/is-expression.git
