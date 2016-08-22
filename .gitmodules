@@ -10,3 +10,6 @@
 [submodule "lib/is-expression"]
 	path = lib/is-expression
 	url = https://github.com/ranneyd/is-expression.git
+[submodule "lib/acorn"]
+	path = lib/acorn
+	url = https://github.com/ranneyd/acorn.git
